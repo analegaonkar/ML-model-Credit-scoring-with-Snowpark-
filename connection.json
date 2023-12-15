@@ -1,0 +1,9 @@
+{
+  "account"   : "",
+  "user"      : "",
+  "password"  : "",
+  "role"      : "",
+  "warehouse" : "DEV_WH",
+  "database"  : "CREDIT_BANK",
+  "schema"    : "PUBLIC"
+}
